@@ -1,0 +1,24 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "The application provides a much more comprehensive currency conversion experience with real-time data and support for multiple currencies.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SATYANARAYANA718/node-currency_converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SATYANARAYANA718/node-currency_converter/issues"
+  },
+  "homepage": "https://github.com/SATYANARAYANA718/node-currency_converter#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0",
+    "vite": "^6.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
